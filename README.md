@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Hello World Project Documentation (My first Project at Microverse)</b></h3>
+  <h3><b>Hello Microverse Project Documentation (My first Project at Microverse)</b></h3>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 HELLO WORLD <a name="about-project"></a>
+# 📖 HELLO MICROVERSE <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
