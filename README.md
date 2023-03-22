@@ -60,39 +60,44 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
- A web browser, google chrome preferably.
- A code editor (e.g vscode) 
++ To clone or fork the repository and run it in a web browser
++ A web browser, google chrome preferably.
++ A code editor (e.g vscode)
 
 
 ### Setup
 
-Clone this repository to your desired folder.
+Clone this repository to your desired folder:
+
+cd my-folder
+git clone https://github.com/DebyGrey/Hello-microverse
 
 
 ### Install
 
-No installation required.
+No installation required to run the project.
 
 
 ### Usage
 
-To run the project, double-click on the index.html file:
+To run the project: 
++ double-click on the index.html file to open on your web browser
 
 
 ### Run tests
 
-To test run required as it is just a basic .html page that says hello world.
+No test run is required as it is just a basic html webpage that says hello microverse
 
 
 ### Deployment
 
-You can deploy this project using any hosting services:
+You can deploy this project:
++ on any hosting services
 
 
 
